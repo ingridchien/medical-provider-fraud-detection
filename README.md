@@ -6,11 +6,16 @@
 
 2. Activate the environment with `conda activate medicalfraud`.
 
-## Instructions to access data 
+## Instructions to Access Data 
 
-The datasets used for this project can be found Google Drive. You must download the data and upload them to a folder called 'data.' The Drive link is provided.
+The datasets used for this project can be found on Google Drive. Follow the instructions to upload the data.
 
-https://drive.google.com/drive/folders/1lzkKIlauNlE3PLHl23IqdTR4gSp0t26X?usp=share_link
+1. Clone the repository on your local machine.
+2. Download the datasets.
+3. Open the repository and create a folder in the directory called *data*.
+4. Upload the datasets to the *data* folder.
+
+Link to dataset: https://drive.google.com/drive/folders/1lzkKIlauNlE3PLHl23IqdTR4gSp0t26X?usp=share_link
 
 ## Dataset Description
 
