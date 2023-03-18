@@ -1,0 +1,9 @@
+name: medicalfraud
+dependencies:
+  - python=3.10.8
+  - numpy=1.23
+  - pandas=1.5
+  - matplotlib=3.6
+  - seaborn=0.12
+  - sklearn=1.2
+  - xgboost = 1.7
