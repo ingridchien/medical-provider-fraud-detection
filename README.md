@@ -27,7 +27,7 @@ Features in datasets 1 and 2 include claim start and end dates, claim diagnoses 
 3. `Beneficiarydata.csv` - Demographics of patients including gender, race, state, and chronic disease indicators. 
 4. `Labels.csv` - Fraud and non fraud labels for provider IDs. 
 
-In Analysis.ipynb, the datasets are joined to `df_full`, which will be saved in the *data* folder. The granularity of the joined data is per patient, per provider, and per claim ID. 
+In Analysis.ipynb, the datasets are joined to `df_full`, which will be saved in the *data* folder as `df_full.csv`. The granularity of the joined data is per patient, per provider, and per claim ID. 
 
 
 ## Reproducing Figures
